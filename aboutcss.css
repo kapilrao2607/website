@@ -1,0 +1,57 @@
+body {
+  height:100%;
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+  .first{
+    background:linear-gradient(lightblue,white);
+    position:absolute;
+    top:0%;
+    left:30px;
+    height:175px;
+    width:100%;
+  }
+  .logo{
+    float:left;
+    margin-left:0px;
+    border: 1px solid black;
+    height:174px;
+    width:150px;
+  }
+  .font
+  {
+    font-weight:bold;
+    font-family:georgia;
+    padding:10px;
+    color:maroon;
+    border:5px inset black;
+    border-radius:5px;
+
+    font-size:400%;
+    position:absolute;
+    top:3%;
+
+    left:35%;
+  }
+  .second
+  {
+    float:left;
+
+    margin:120px;
+    margin-top: 300px;
+
+    color:white;
+    font-family:sans serif;
+    width:400px;
+    height:700 px;
+    font-size:130%;
+    background:rbga(0,0,0,0.5);
+    padding:4px;
+    text-align:justify;
+  }
+  
+.para{
+  font-weight:bold;
+  font-family:georgia;
+}
